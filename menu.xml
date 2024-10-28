@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Menu>
+    <Group name="Appetizers">
+        <Dish>
+            <Name>Edamame</Name>
+            <Description>Steamed young soybeans lightly salted</Description>
+            <Price>4.00</Price>
+        </Dish>
+        <Dish>
+            <Name>Gyoza</Name>
+            <Description>Pan-fried dumplings filled with pork and vegetables</Description>
+            <Price>6.50</Price>
+        </Dish>
+        <Dish>
+            <Name>Agedashi Tofu</Name>
+            <Description>Crispy deep-fried tofu served with tempura sauce</Description>
+            <Price>5.50</Price>
+        </Dish>
+    </Group>
+    
+    <Group name="Sushi">
+        <Dish>
+            <Name>California Roll</Name>
+            <Description>Crab, avocado, and cucumber wrapped in seaweed and rice</Description>
+            <Price>8.00</Price>
+        </Dish>
+        <Dish>
+            <Name>Spicy Tuna Roll</Name>
+            <Description>Fresh tuna with a spicy sauce, wrapped in seaweed and rice</Description>
+            <Price>9.00</Price>
+        </Dish>
+        <Dish>
+            <Name>Dragon Roll</Name>
+            <Description>Tempura shrimp and cucumber topped with eel and avocado</Description>
+            <Price>12.00</Price>
+        </Dish>
+    </Group>
+
+    <Group name="Main Dishes">
+        <Dish>
+            <Name>Chicken Teriyaki</Name>
+            <Description>Grilled chicken with teriyaki sauce, served with rice and salad</Description>
+            <Price>13.00</Price>
+        </Dish>
+        <Dish>
+            <Name>Beef Udon</Name>
+            <Description>Thick wheat noodles in a savory broth with sliced beef and green onions</Description>
+            <Price>11.50</Price>
+        </Dish>
+        <Dish>
+            <Name>Vegetable Tempura</Name>
+            <Description>Lightly battered and fried seasonal vegetables served with dipping sauce</Description>
+            <Price>10.00</Price>
+        </Dish>
+    </Group>
+</Menu>
