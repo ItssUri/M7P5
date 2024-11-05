@@ -22,13 +22,13 @@
             <Price>5.50</Price>
             <Image>tofu.jpg</Image>
         </Dish>
-        <!--Dish>
+        <Dish>
             <Name>Miso Soup</Name>
             <NameJP>味噌汁</NameJP>
             <Description>Traditional Japanese soup with tofu, seaweed, and green onions</Description>
             <Price>3.00</Price>
             <Image>miso.jpg</Image>
-        </Dish-->
+        </Dish>
     </Group>
     <Group name="Sushi Rolls">
         <Dish>
@@ -53,7 +53,7 @@
             <Image>dragon.jpg</Image>
         </Dish>
     </Group>
-    <!--Group name="Main Dishes">
+    <Group name="Main Dishes">
         <Dish>
             <Name>Chicken Teriyaki</Name>
             <NameJP>鶏の照り焼き</NameJP>
@@ -75,5 +75,5 @@
             <Price>10.00</Price>
             <Image>tempura.jpg</Image>
         </Dish>
-    </Group-->
+    </Group>
 </Menu>
