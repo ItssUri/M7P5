@@ -46,7 +46,7 @@
             <Image>dragon.jpg</Image>
         </Dish>
     </Group>
-    <Group name="Main Dishes">
+    <!--Group name="Main Dishes">
         <Dish>
             <Name>Chicken Teriyaki</Name>
             <NameJP>鶏の照り焼き</NameJP>
@@ -68,5 +68,5 @@
             <Price>10.00</Price>
             <Image>tempura.jpg</Image>
         </Dish>
-    </Group>
+    </Group-->
 </Menu>
