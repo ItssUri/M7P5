@@ -3,18 +3,21 @@
     <Group name="Appetizers">
         <Dish>
             <Name>Edamame</Name>
+            <NameJP>枝豆</NameJP>
             <Description>Steamed young soybeans lightly salted</Description>
             <Price>4.00</Price>
             <Image>edamame.jpg</Image>
         </Dish>
         <Dish>
             <Name>Gyoza</Name>
+            <NameJP>餃子</NameJP>
             <Description>Pan-fried dumplings filled with pork and vegetables</Description>
             <Price>6.50</Price>
             <Image>gyoza.jpg</Image>
         </Dish>
         <Dish>
             <Name>Agedashi Tofu</Name>
+            <NameJP>揚げ出し豆腐</NameJP>
             <Description>Crispy deep-fried tofu served with tempura sauce</Description>
             <Price>5.50</Price>
             <Image>tofu.jpg</Image>
@@ -23,18 +26,21 @@
     <Group name="Sushi Rolls">
         <Dish>
             <Name>California Roll</Name>
+            <NameJP>カリフォルニアロール</NameJP>
             <Description>Crab, avocado, and cucumber wrapped in seaweed and rice</Description>
             <Price>8.00</Price>
             <Image>california.jpg</Image>
         </Dish>
         <Dish>
             <Name>Spicy Tuna Roll</Name>
+            <NameJP>スパイシーツナロール</NameJP>
             <Description>Fresh tuna with a spicy sauce, wrapped in seaweed and rice</Description>
             <Price>9.00</Price>
             <Image>tuna.jpg</Image>
         </Dish>
         <Dish>
             <Name>Dragon Roll</Name>
+            <NameJP>ドラゴンロール</NameJP>
             <Description>Tempura shrimp and cucumber topped with eel and avocado</Description>
             <Price>12.00</Price>
             <Image>dragon.jpg</Image>
@@ -43,18 +49,21 @@
     <Group name="Main Dishes">
         <Dish>
             <Name>Chicken Teriyaki</Name>
+            <NameJP>鶏の照り焼き</NameJP>
             <Description>Grilled chicken with teriyaki sauce, served with rice and salad</Description>
             <Price>13.00</Price>
             <Image>chicken.jpg</Image>
         </Dish>
         <Dish>
             <Name>Beef Udon</Name>
+            <NameJP>牛肉うどん</NameJP>
             <Description>Thick wheat noodles in a savory broth with sliced beef and green onions</Description>
             <Price>11.50</Price>
             <Image>udon.jpg</Image>
         </Dish>
         <Dish>
             <Name>Vegetable Tempura</Name>
+            <NameJP>野菜天ぷら</NameJP>
             <Description>Lightly battered and fried seasonal vegetables served with dipping sauce</Description>
             <Price>10.00</Price>
             <Image>tempura.jpg</Image>
