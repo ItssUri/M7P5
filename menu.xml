@@ -59,5 +59,11 @@
             <Price>10.00</Price>
             <Image>tempura.jpg</Image>
         </Dish>
+        <Dish>
+            <Name>Vegetable Tempura</Name>
+            <Description>Lightly battered and fried seasonal vegetables served with dipping sauce</Description>
+            <Price>10.00</Price>
+            <Image>tempura.jpg</Image>
+        </Dish>
     </Group>
 </Menu>
