@@ -22,6 +22,13 @@
             <Price>5.50</Price>
             <Image>tofu.jpg</Image>
         </Dish>
+        <!--Dish>
+            <Name>Miso Soup</Name>
+            <NameJP>味噌汁</NameJP>
+            <Description>Traditional Japanese soup with tofu, seaweed, and green onions</Description>
+            <Price>3.00</Price>
+            <Image>miso.jpg</Image>
+        </Dish-->
     </Group>
     <Group name="Sushi Rolls">
         <Dish>
