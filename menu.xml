@@ -40,5 +40,24 @@
             <Image>dragon.jpg</Image>
         </Dish>
     </Group>
-    
+    <Group name="Main Dishes">
+        <Dish>
+            <Name>Chicken Teriyaki</Name>
+            <Description>Grilled chicken with teriyaki sauce, served with rice and salad</Description>
+            <Price>13.00</Price>
+            <Image>chicken.jpg</Image>
+        </Dish>
+        <Dish>
+            <Name>Beef Udon</Name>
+            <Description>Thick wheat noodles in a savory broth with sliced beef and green onions</Description>
+            <Price>11.50</Price>
+            <Image>udon.jpg</Image>
+        </Dish>
+        <Dish>
+            <Name>Vegetable Tempura</Name>
+            <Description>Lightly battered and fried seasonal vegetables served with dipping sauce</Description>
+            <Price>10.00</Price>
+            <Image>tempura.jpg</Image>
+        </Dish>
+    </Group>
 </Menu>
