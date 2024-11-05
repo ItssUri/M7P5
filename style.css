@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: "Raleway", sans-serif;
+}
+
+html {
+    background: #1C1C1C;
+}
+
+header {
+    text-align: center;
+    width: 100%;
+}
+header h1 {
+    color: white;
+}
+#menu {
+    padding:20px;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+}
+.group {
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    border: 2px solid #e0c97a;
+    margin-bottom: 10px;
+    width: 30%;
+    flex:1;
+    margin-right: 30px;
+    margin-left: 30px;
+    vertical-align: middle;
+}
+
+.group h2 {
+    color: white;
+}
+
+.dish {
+    padding: 5px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 30px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 10px;
+    padding-right: 10px;
+    transition: 300ms;
+    height:auto;
+    width: 60%;
+    background: #C71F1F ;
+    border-radius: 15px;
+    box-shadow: 10px 10px 33px 4px rgba(0, 0, 0, 0.034);
+
+}
+
+#banner-image {
+    width: 300px;
+}
+
+.item-image {
+    width: 150px;
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 15px;
+}
+
+.item-nameJP {
+    margin-top: 15px;
+    font-size: small;
+    color: #ddb73b;
+    margin-bottom: 0px;
+}
+
+.item-name {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: large;
+    color: #ddb73b;
+}
+.item-desc {
+    color: rgb(255, 234, 234);
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+.item-price {
+    color: rgb(255, 234, 234);
+    margin-bottom: 0px;
+    font-size: medium;
+    margin-top: 0;
+    font-weight: 500;
+}
+
+.dish:hover {
+    scale:1.07;
+    transition: 300ms;
+}
